@@ -6,7 +6,7 @@
 * MySql
 
 ## Install Dependencies
-  `pip install -r requirements.txt`
+  `pip install -r requirement.txt`
   
   
 ## How to run 
