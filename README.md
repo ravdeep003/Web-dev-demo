@@ -16,8 +16,8 @@
     `sudo apt-get install mysql-server libmysqlclient-dev`
     
 ## Creating Databases
-    `CREATE DATABASE testing;
-     use testing`
+    CREATE DATABASE testing;
+    use testing
     
 ## Creating Tables
     ```CREATE TABLE user(id INT(5) AUTO_INCREMENT PRIMARY KEY, username VARCHAR(20), password VARCHAR(100), email VARCHAR(100), joined_on TIMESTAMP DEFAULT CURRENT_TIMESTAMP);
